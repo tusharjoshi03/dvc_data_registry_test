@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_repo
+['remote "dvc_repo"']
+    url = https://github.com/tusharjoshi03/dvc_data_registry_test.git
